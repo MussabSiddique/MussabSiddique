@@ -1,4 +1,4 @@
-# Hi there, I'm [Mussab Siddique](https://github.com/MussabSiddique) 👋
+# Hi there, I'm [Muhammad Mussab Siddique](https://github.com/MussabSiddique) 👋
 
 I'm a passionate Web Developer and Graphics Designer who loves creating websites, web applications, logos, and engaging in video and photo editing.
 
